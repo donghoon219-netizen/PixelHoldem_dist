@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "url": "https://raw.githubusercontent.com/donghoon219-netizen/PixelHoldem_dist/main/PixelHoldem.exe",
-  "notes": "레이즈 금액 +/-버튼·직접입력 방식으로 개선"
+  "notes": "쇼다운(패 공개) 시 모든 사람이 [확인]을 눌러야 다음 판 진행"
 }
