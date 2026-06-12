@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "url": "https://raw.githubusercontent.com/donghoon219-netizen/PixelHoldem_dist/main/PixelHoldem.exe",
-  "notes": "봇이 당신의 플레이 스타일(공격적/수동적/콜쟁이)을 분석해 심리전 반영 + 확인 단계에서 고수 봇 우클릭 판단 분석 추가"
+  "notes": "사무실 모드: 판단 분석 내용은 원문 그대로 표시 (외형만 위장)"
 }
