@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://raw.githubusercontent.com/donghoon219-netizen/PixelHoldem_dist/main/PixelHoldem.exe",
-  "notes": "쇼다운(패 공개) 시 모든 사람이 [확인]을 눌러야 다음 판 진행"
+  "notes": "다음 판으로 넘어갈 때 상대 패가 다시 뒷면으로 가려지도록 수정"
 }
